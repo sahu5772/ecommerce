@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.063" height="73.307" viewBox="0 0 113.063 73.307">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: rgba(0,0,0,0);
+      }
+    </style>
+  </defs>
+  <path id="nav-menu-icon" class="cls-1" d="M0,72.307V67.059H112.063v5.248Zm0-33.53V33.53H112.063v5.248ZM54.207,5.248V0h57.856V5.248Z" transform="translate(0.5 0.5)"/>
+</svg>

@@ -1,0 +1,30 @@
+.home-section .n_user {
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: calc(100% - 240px);
+    right: 240px !important;
+    z-index: 100;
+    padding: 0 19px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease;
+  }
+  .home-section .n_user .profile-details {
+    display: flex;
+    align-items: center;
+    background: #8FDED3;
+    border: 2px solid #EFEEF1;
+    border-radius: 6px;
+    height: 46px;
+    min-width: 130px;
+    padding: 0 15px 0 10px;
+  }
+  .home-section .n_user .profile-details a {
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+  }
